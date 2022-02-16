@@ -1,4 +1,5 @@
-# Practical Quantum Computing 2022
+# Minor Quantum Technologies, 2022
+## Introduction to Python
 ![insubria](logo.png)
 
 ## Preliminary Schedule
