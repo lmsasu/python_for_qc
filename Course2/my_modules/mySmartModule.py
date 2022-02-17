@@ -5,6 +5,6 @@ def my_sum(lista):
     return sum
 	
 if __name__ == '__main__':
-	print('Exemplu de utilizare')
+	print('Usage example')
 	lista = list(range(100))
 	print(my_sum(lista))
