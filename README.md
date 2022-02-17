@@ -5,5 +5,5 @@
 ## Preliminary Schedule
 * 16 February, 16.30 - 18.30 CET, [Course 1](./Course1)
 * 17 february, 16.30 - 18.30 CET, [Course 2](./Course2)
-* Week of 21-25 February, to be anounced, Course 3
-* Week of 21-25 February, to be anounced, Course 4
+* 22 February, 14.30-16.30 CET, Course 3
+* 23 February, 16.30-18.30 CET, Course 4
